@@ -23,6 +23,18 @@
      ...
 ```
 
+```mermaid
+graph TD;
+    unit_one-->1_lesson_06.04.2022;
+    1_lesson_06.04.2022-->task;
+    task-->task1.py;
+    task-->task2.py;
+    1_lesson_06.04.2022-->lection;
+    lection-->file.md;
+    lection-->file.pdf
+    lection-->file.py       
+```
+
 ###Пример папки слушателя:
 
 `unit_one` - папка содержит задание по модулю. Наименование файлов не
