@@ -37,7 +37,7 @@ graph TD;
 
 
 ### Пример папки слушателя:
-
+`python_spring_2022` - название репозитария слушателя
 `unit_one` - папка содержит задание по модулю. Наименование файлов не
 меняется.
 
@@ -50,8 +50,7 @@ graph TD;
 
 ```mermaid
 graph TD;
-    workspace-->unit_one
-    workspace-->unit_two
+    python_spring_2022-->python_spring_2022
     unit_one-->task1.py
     unit_one-->task2.py
     unit_one-->task3.py
