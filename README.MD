@@ -50,6 +50,8 @@ graph TD;
 
 ```mermaid
 graph TD;
+    workspace-->unit_one
+    workspace-->unit_two
     unit_one-->task1.py
     unit_one-->task2.py
     unit_one-->task3.py
