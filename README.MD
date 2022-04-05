@@ -50,7 +50,6 @@ graph TD;
 
 ```mermaid
 graph TD;
-    python_spring_2022-->python_spring_2022
     unit_one-->task1.py
     unit_one-->task2.py
     unit_one-->task3.py
