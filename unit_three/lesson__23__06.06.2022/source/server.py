@@ -1,4 +1,6 @@
-#  TODO: реализовать протокол
+#  TODO: реализовать протокол получения файла: GET file.jpg
+#
+
 # https://docs.python.org/3/library/socket.html#module-socket
 #https://pythonist.ru/rabota-s-setevymi-soketami-na-python/
 import socket
